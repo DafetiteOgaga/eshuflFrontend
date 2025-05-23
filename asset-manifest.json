@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/eshuflFrontend/static/css/main.8f38cc9b.css",
-    "main.js": "/eshuflFrontend/static/js/main.2096eaf0.js",
+    "main.css": "/eshuflFrontend/static/css/main.533a4d15.css",
+    "main.js": "/eshuflFrontend/static/js/main.1f9ee930.js",
     "static/js/488.2164a802.chunk.js": "/eshuflFrontend/static/js/488.2164a802.chunk.js",
     "static/media/banner_img.png": "/eshuflFrontend/static/media/banner_img.c0ecc5f5aa7b34ae80dd.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/eshuflFrontend/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -13,20 +13,20 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/eshuflFrontend/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/i4.png": "/eshuflFrontend/static/media/i4.3c907841096010b1d203.png",
     "static/media/Flaticon.svg": "/eshuflFrontend/static/media/Flaticon.528ff1d7c90f570448db.svg",
-    "static/media/logo.png": "/eshuflFrontend/static/media/logo.c608523f6191a923376b.png",
-    "static/media/sample_image.png": "/eshuflFrontend/static/media/sample_image.c608523f6191a923376b.png",
+    "static/media/logo.png": "/eshuflFrontend/static/media/logo.b5f8dabc5eebe8856366.png",
+    "static/media/sample_image.png": "/eshuflFrontend/static/media/sample_image.9e22063262c522af2111.png",
     "static/media/i1.png": "/eshuflFrontend/static/media/i1.1d0a181aae6609c384b2.png",
     "static/media/i2.png": "/eshuflFrontend/static/media/i2.b87f7b57f4845447026f.png",
     "static/media/Flaticon.eot": "/eshuflFrontend/static/media/Flaticon.259ec5480ae1c0beec44.eot",
     "static/media/Flaticon.ttf": "/eshuflFrontend/static/media/Flaticon.be5f03f639c88b37cf1d.ttf",
     "static/media/Flaticon.woff": "/eshuflFrontend/static/media/Flaticon.1c5615dba5c59ca250a9.woff",
     "index.html": "/eshuflFrontend/index.html",
-    "main.8f38cc9b.css.map": "/eshuflFrontend/static/css/main.8f38cc9b.css.map",
-    "main.2096eaf0.js.map": "/eshuflFrontend/static/js/main.2096eaf0.js.map",
+    "main.533a4d15.css.map": "/eshuflFrontend/static/css/main.533a4d15.css.map",
+    "main.1f9ee930.js.map": "/eshuflFrontend/static/js/main.1f9ee930.js.map",
     "488.2164a802.chunk.js.map": "/eshuflFrontend/static/js/488.2164a802.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f38cc9b.css",
-    "static/js/main.2096eaf0.js"
+    "static/css/main.533a4d15.css",
+    "static/js/main.1f9ee930.js"
   ]
 }
