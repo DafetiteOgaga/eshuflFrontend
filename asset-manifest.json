@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eshuflFrontend/static/css/main.be9444d8.css",
-    "main.js": "/eshuflFrontend/static/js/main.88986f73.js",
+    "main.js": "/eshuflFrontend/static/js/main.2a5e46cd.js",
     "static/js/488.2164a802.chunk.js": "/eshuflFrontend/static/js/488.2164a802.chunk.js",
     "static/media/banner_img.png": "/eshuflFrontend/static/media/banner_img.c0ecc5f5aa7b34ae80dd.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/eshuflFrontend/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -22,11 +22,11 @@
     "static/media/Flaticon.woff": "/eshuflFrontend/static/media/Flaticon.1c5615dba5c59ca250a9.woff",
     "index.html": "/eshuflFrontend/index.html",
     "main.be9444d8.css.map": "/eshuflFrontend/static/css/main.be9444d8.css.map",
-    "main.88986f73.js.map": "/eshuflFrontend/static/js/main.88986f73.js.map",
+    "main.2a5e46cd.js.map": "/eshuflFrontend/static/js/main.2a5e46cd.js.map",
     "488.2164a802.chunk.js.map": "/eshuflFrontend/static/js/488.2164a802.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be9444d8.css",
-    "static/js/main.88986f73.js"
+    "static/js/main.2a5e46cd.js"
   ]
 }
