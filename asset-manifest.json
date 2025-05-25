@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eshuflFrontend/static/css/main.0d5d0e0a.css",
-    "main.js": "/eshuflFrontend/static/js/main.ef96fa62.js",
+    "main.js": "/eshuflFrontend/static/js/main.1beda9ad.js",
     "static/js/488.2164a802.chunk.js": "/eshuflFrontend/static/js/488.2164a802.chunk.js",
     "static/media/banner_img.png": "/eshuflFrontend/static/media/banner_img.0e906b6c766548f748a8.png",
     "static/media/img2.png": "/eshuflFrontend/static/media/img2.d0ade9227a64a9545439.png",
@@ -13,11 +13,11 @@
     "static/media/i2.png": "/eshuflFrontend/static/media/i2.b87f7b57f4845447026f.png",
     "index.html": "/eshuflFrontend/index.html",
     "main.0d5d0e0a.css.map": "/eshuflFrontend/static/css/main.0d5d0e0a.css.map",
-    "main.ef96fa62.js.map": "/eshuflFrontend/static/js/main.ef96fa62.js.map",
+    "main.1beda9ad.js.map": "/eshuflFrontend/static/js/main.1beda9ad.js.map",
     "488.2164a802.chunk.js.map": "/eshuflFrontend/static/js/488.2164a802.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d5d0e0a.css",
-    "static/js/main.ef96fa62.js"
+    "static/js/main.1beda9ad.js"
   ]
 }
